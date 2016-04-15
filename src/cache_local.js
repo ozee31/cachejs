@@ -1,4 +1,4 @@
-var CachejsLocal = (function (_super) {
+Cachejs.Local = (function (_super) {
    __extends(CachejsLocal, _super);
 
    function CachejsLocal() {
@@ -8,4 +8,4 @@ var CachejsLocal = (function (_super) {
    CachejsLocal.storage = localStorage;
 
    return CachejsLocal;
-})(Cachejs);
+})(Cachejs.Engine);

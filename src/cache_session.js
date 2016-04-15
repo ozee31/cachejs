@@ -1,4 +1,4 @@
-var CachejsSession = (function (_super) {
+Cachejs.Session = (function (_super) {
    __extends(CachejsSession, _super);
 
    function CachejsSession() {
@@ -8,4 +8,4 @@ var CachejsSession = (function (_super) {
    CachejsSession.storage = sessionStorage;
 
    return CachejsSession;
-})(Cachejs);
+})(Cachejs.Engine);
