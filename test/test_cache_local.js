@@ -1,5 +1,5 @@
 describe("CacheLocaljs", function() {
-	var _class = CachejsLocal;
+	var _class = Cachejs.Local;
 
 	afterEach(function() {
 		localStorage.clear();

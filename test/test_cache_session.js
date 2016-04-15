@@ -1,5 +1,5 @@
 describe("CacheSessionjs", function() {
-	var _class = CachejsSession;
+	var _class = Cachejs.Session;
 
 	afterEach(function() {
         localStorage.clear();

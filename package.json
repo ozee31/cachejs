@@ -1,0 +1,36 @@
+{
+  "name": "cachejs",
+  "version": "0.0.0",
+  "description": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozee31/cachejs.git"
+  },
+  "author": "Flavien Beninca <flavien.beninca@gmail.com>",
+  "keywords": [
+    "cache",
+    "localstorage",
+    "sessionstorage",
+    "storage",
+    "local",
+    "session"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ozee31/cachejs/issues"
+  },
+  "homepage": "https://github.com/ozee31/cachejs#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.0.0",
+    "grunt-contrib-concat": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "jasmine-core": "^2.4.1"
+  }
+}
