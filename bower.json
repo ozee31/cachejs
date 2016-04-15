@@ -1,6 +1,6 @@
 {
   "name": "cachejs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "authors": [
     "Flavien Beninca <flavien.beninca@gmail.com>"
   ],
@@ -13,14 +13,6 @@
     "session"
   ],
   "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "vendor/",
-    "test",
-    "tests"
-  ],
   "devDependencies": {
     "jasmine-core": "~2.4.0"
   }
