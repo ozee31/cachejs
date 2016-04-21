@@ -15,12 +15,12 @@ Web browser with LocalStorage and SessionStorage :
 
 ### With npm
 ```bash
-
+npm install ozee-cachejs
 ```
 
 ### With bower
 ```bash
-
+bower install ozee-cachejs
 ```
 
 ### Other method
@@ -32,6 +32,13 @@ Load the lib :
 ```html
 <html>
 	<head>
+        <!-- npm -->
+        <script src="/node_modules/ozee-cachejs/dist/cache.min.js"></script>
+
+        <!-- bower -->
+        <script src="/bower_components//ozee-cachejs/dist/cache.min.js"></script>
+
+        <!-- other method -->
 		<script src="/lib-path/cachejs/dist/cache.min.js"></script>
 	</head>
 </html>
@@ -122,7 +129,7 @@ Cachejs.Session.get('key'); // null
 Cachejs.Local.set('key', 'value', 1);
 // sleep 2 secondes or more
 Cachejs.Local.get('key'); // null
-``` 
+```
 
 ### Remove
 Remove data if don't readonly
