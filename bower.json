@@ -1,8 +1,8 @@
 {
-  "name": "cachejs",
+  "name": "ozee-cachejs",
   "version": "1.0.0",
   "authors": [
-    "Flavien Beninca <flavien.beninca@gmail.com>"
+    "Flavien Beninca <contact@flavienbeninca.fr>"
   ],
   "keywords": [
     "cache",

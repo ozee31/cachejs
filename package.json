@@ -1,5 +1,5 @@
 {
-  "name": "cachejs",
+  "name": "ozee-cachejs",
   "version": "1.0.0",
   "description": "A cache lib based on LocalStorage and SessionStorage",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ozee31/cachejs.git"
   },
-  "author": "Flavien Beninca <flavien.beninca@gmail.com>",
+  "author": "Flavien Beninca <contact@flavienbeninca.fr>",
   "keywords": [
     "cache",
     "localstorage",
