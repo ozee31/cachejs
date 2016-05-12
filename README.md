@@ -33,13 +33,13 @@ Load the lib :
 <html>
 	<head>
         <!-- npm -->
-        <script src="/node_modules/ozee-cachejs/dist/cache.min.js"></script>
+        <script src="node_modules/ozee-cachejs/dist/cache.min.js"></script>
 
         <!-- bower -->
-        <script src="/bower_components//ozee-cachejs/dist/cache.min.js"></script>
+        <script src="bower_components//ozee-cachejs/dist/cache.min.js"></script>
 
         <!-- other method -->
-		<script src="/lib-path/cachejs/dist/cache.min.js"></script>
+		<script src="lib-path/cachejs/dist/cache.min.js"></script>
 	</head>
 </html>
 ```
